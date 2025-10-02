@@ -38,6 +38,7 @@ dependencies:
     - psutil
     - setuptools
     - speedtest-cli
+    - pypdf
     - langchain
     - langchain-core
     - langchain-text-splitters
