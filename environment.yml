@@ -43,6 +43,7 @@ dependencies:
     - langchain-core
     - langchain-text-splitters
     - langchain-openai
+    - langchain-anthropic
     - langchain-chroma
     - langchain-community
     - faiss-cpu
